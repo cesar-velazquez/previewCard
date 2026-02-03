@@ -19,11 +19,11 @@ El proyecto se enfoca en el desarrollo moderno de lograr que las páginas web se
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone 
+   git clone https://github.com/cesar-velazquez/previewCard 
    ```
 2. **Url del sitio:**
    ```bash
-   sitio:
+   sitio: https://previewcardfront.netlify.app/
    ```
 
 # socialLink
